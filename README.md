@@ -9,18 +9,6 @@ Jaime Sáez de Buruaga
 
 -------------------------
 
-Índice:
-
-00:00 - Introducción
-
-01:42 - Parte Teórica
-
-07:33 - Demostración Práctica
-
-10:51 - Líneas Futuras
-
--------------------------
-
 Descripción:
 
 Vídeo explicativo de la implementación de un asistente virtual en Python que no necesite recibir comandos de voz para la activación. Detecta cuando mi Mi Band está cerca a través de bluetooth y notifica sobre nuevos correos electrónicos, eventos en el calendario... También puede interpretar comandos, diferenciando entre verbos y sustantivos, para poder interpretar la misma orden dicha con diferentes palabras y darle la capacidad de interpretar diferentes parámetros para un mismo comando.
