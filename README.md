@@ -13,7 +13,7 @@ Jaime Sáez de Buruaga
 
 00:00 - Introducción
 
-01:42 - Parte teórica
+01:42 - Parte Teórica
 
 07:33 - Demostración Práctica
 
@@ -45,10 +45,6 @@ IoT, Virtual Assisstant, Python
 
 ------------------------
 
-Referencias:
-
-
--------------------------
 
 Vídeo realizado para la asignatura "Arquitectura de Servicios para la IoT"
 
