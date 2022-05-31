@@ -20,8 +20,14 @@ También puede interpretar comandos, diferenciando entre verbos y sustantivos, p
  - Comprobar cada vez que la Mi Band está cerca mediante el escaneo de Bluetooth para notificar nuevos eventos, haciendo un buffer de notificaciones aún no notificadas.
 
 ## Instalación
-
+### Clonar repositorio
 `$ git clone https://github.com/DiegoMartindeAndres/pyAssistant.git`
+
+### Entrar en el directorio
 `$ cd pyAssistant`
+
+### Instalar dependencias
 `$ pip install -r requirements.txt`
+
+### Ejecutar clase principal
 `$ python3 main.py`
