@@ -27,7 +27,7 @@ También puede interpretar comandos, diferenciando entre verbos y sustantivos, p
 `$ cd pyAssistant`
 
 ### Instalar dependencias
-`$ pip install -r requirements.txt`
+`$ pip3 install -r requirements.txt`
 
 ### Ejecutar clase principal
 `$ python3 main.py`
