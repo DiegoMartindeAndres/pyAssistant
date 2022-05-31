@@ -21,7 +21,7 @@ También puede interpretar comandos, diferenciando entre verbos y sustantivos, p
 
 ## Instalación
 
-`$ git clone https://github.com/DiegoMartindeAndres/pyAssistant.git
-$ cd pyAssistant
-$ pip install -r requirements.txt
-$ python3 main.py`
+`$ git clone https://github.com/DiegoMartindeAndres/pyAssistant.git`
+`$ cd pyAssistant`
+`$ pip install -r requirements.txt`
+`$ python3 main.py`
