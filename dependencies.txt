@@ -1,0 +1,17 @@
+google_speechi(sudo):
+pip3 install google_speech
+sudo apt-get install sox libsox-fmt-mp3
+SpeechRecognition
+python-httplib2 (pacman)
+python-uritemplate (pacman)
+sox(pacman)
+gtts
+discovery
+apiclient
+googleapiclient
+google
+pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
+pip3 install simplejson
+pip3 install wikipedia
+First `apt-get` install `swig`, `sox`, `portaudio` and its Python binding `pyaudio`:
+https://pypi.org/project/snowboy/

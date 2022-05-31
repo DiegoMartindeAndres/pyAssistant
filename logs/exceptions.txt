@@ -1,0 +1,20 @@
+2022-05-11 11:50:53.715196 CLASS: RUN_COMMAND, METHOD: run_command EXCEPTION: name _ is not defined
+2022-05-11 11:54:44.212474 CLASS: RUN_COMMAND, METHOD: run_command EXCEPTION: name _ is not defined
+2022-05-11 11:55:13.939981 CLASS: RUN_COMMAND, METHOD: run_command EXCEPTION: name _ is not defined
+2022-05-11 11:56:19.341197 CLASS: RUN_COMMAND, METHOD: run_command EXCEPTION: name is_ is not defined
+2022-05-11 11:56:37.519084 CLASS: RUN_COMMAND, METHOD: run_command EXCEPTION: name _ is not defined
+2022-05-11 11:57:57.744152 CLASS: change_directory, METHOD: ch_dir EXCEPTION: Command [find, /home/javi, -name, Documentos] returned non-zero exit status 1.
+2022-05-11 11:58:53.348135 CLASS: change_directory, METHOD: ch_dir EXCEPTION: Command [find, /home/javi, -name, Documentos] returned non-zero exit status 1.
+2022-05-11 12:00:55.901637 CLASS: change_directory, METHOD: ch_dir EXCEPTION: Command [find, /home/javi, -name, Documentos] returned non-zero exit status 1.
+2022-05-11 12:03:04.462552 CLASS: change_directory, METHOD: ch_dir EXCEPTION: Command [find, /home/javi, -name, Universidad] returned non-zero exit status 1.
+2022-05-11 12:36:34.073701 CLASS: RUN_COMMAND, METHOD: run_command EXCEPTION: name _ is not defined
+2022-05-11 13:28:08.348515 CLASS: RUN_COMMAND, METHOD: run_command EXCEPTION: name _calendar is not defined
+2022-05-11 13:29:13.168095 CLASS: RUN_COMMAND, METHOD: run_command EXCEPTION: name check_calendar is not defined
+2022-05-11 13:30:36.961606 CLASS: RUN_COMMAND, METHOD: run_command EXCEPTION: name check_calendar is not defined
+2022-05-21 11:17:51.378289 CLASS: change_directory, METHOD: ch_dir EXCEPTION: Command [find, /home/javi, -name, Descargas] returned non-zero exit status 1.
+2022-05-21 11:18:09.548314 CLASS: RUN_COMMAND, METHOD: run_command EXCEPTION: Command [sudo, -A, fdisk, -l] returned non-zero exit status 1.
+2022-05-21 12:14:34.054633 CLASS: RUN_COMMAND, METHOD: run_command EXCEPTION: name copy_stop is not defined
+2022-05-21 12:15:57.115016 CLASS: RUN_COMMAND, METHOD: run_command EXCEPTION: name make_what is not defined
+2022-05-21 12:16:43.873267 CLASS: RUN_COMMAND, METHOD: run_command EXCEPTION: Command [sudo, -A, fdisk, -l] returned non-zero exit status 1.
+2022-05-24 12:59:42.364884 CLASS: RUN_COMMAND, METHOD: run_command EXCEPTION: name is_event is not defined
+2022-05-24 13:07:53.287602 CLASS: RUN_COMMAND, METHOD: run_command EXCEPTION: name _how is not defined
